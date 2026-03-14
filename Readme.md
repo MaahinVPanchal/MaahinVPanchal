@@ -20,6 +20,18 @@
 
 ---
 
+## 🏛️ Affiliations & Hackathon Ecosystem
+
+<div align="center">
+
+*A snapshot of the institutions, programs, and platforms that shape my journey — from academic roots to hackathon wins and AI communities.*
+
+<img src="image.png" alt="Affiliations: DA-IICT, SSIP, Smart India Hackathon, Altair, Unstop, AI Tinkerers, and hackathon projects" width="100%"/>
+
+</div>
+
+---
+
 ## ⚡ TL;DR — Why Hire Me
 
 > I'm an AI/ML engineer who **ships**. Not just notebooks — production SaaS, funded projects, hackathon wins, and real users.
