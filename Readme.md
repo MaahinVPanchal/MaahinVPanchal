@@ -1,270 +1,210 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d47a1&height=200&section=header&text=Maahin%20Panchal&fontSize=55&fontColor=58a6ff&animation=twinkling&fontAlignY=38&desc=Founding%20AI%2FML%20Engineer%20%7C%20SaaS%20Builder%20%7C%20LDCE%20Grad&descAlignY=58&descColor=8b949e" width="100%"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Founding+AI%2FML+Engineer+%40+Aegis+Whistle+%F0%9F%9A%80;Smart+India+Hackathon+Runner-Up+%F0%9F%8F%86;SSIP+Grantee+%E2%80%94+INR+2%2C49%2C000+Funded+%F0%9F%92%B0;10+Hackathons+%7C+7+Devpost+Projects+%F0%9F%8C%9F;Building+with+Vision%2C+RAG+%26+Real-time+Agents!" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0a2e,70:0d1f6e,100:1a56db&height=220&section=header&text=Maahin%20Panchal&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20Engineer%20%E2%80%94%20I%20build%20things%20that%20ship&descAlignY=60&descColor=93c5fd&descSize=20" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MaahinVPanchal&label=Profile%20Views&color=0d47a1&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/MaahinVPanchal?tab=followers">
-  <img src="https://img.shields.io/github/followers/MaahinVPanchal?label=Followers&style=for-the-badge&color=0d47a1" alt="Followers"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=60A5FA&center=true&vCenter=true&width=750&lines=Founding+AI%2FML+Engineer+%40+Aegis+Whistle;RAG+%7C+Vision+AI+%7C+Real-time+Agents+%7C+SaaS;10+Hackathons+%E2%80%94+7+shipped+products+on+Devpost;INR+2%2C49%2C000+funded+by+SSIP+%F0%9F%92%B0;Smart+India+Hackathon+Runner-Up+%F0%9F%8F%86;Open+to+founding+engineer+roles+%26+AI+contracts" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/maahin-vimlesh-panchal)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/maahinpanchal)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maahinpanchal)
+[![Gmail](https://img.shields.io/badge/Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maahinvpanchal@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=MaahinVPanchal&style=for-the-badge&color=1a56db&label=Profile+Views)](https://github.com/MaahinVPanchal)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ TL;DR — Why Hire Me
 
-```yaml
-name        : Maahin Panchal
-title       : Founding AI/ML Engineer @ Aegis Whistle
-location    : Ahmedabad, Gujarat, India 🇮🇳
-education   :
-  institution : L.D. College of Engineering (LDCE), Ahmedabad
-  degree      : B.E. — Computer Engineering (Graduate)
-  affiliation : Gujarat Technological University (GTU)
+> I'm an AI/ML engineer who **ships**. Not just notebooks — production SaaS, funded projects, hackathon wins, and real users.
 
-currently   :
-  - Founding AI/ML Engineer at Aegis Whistle
-  - Building SaaS with Vision, RAG & Real-time Agents
-  - Enhancing Object Detection systems (SSIP-funded project)
-  - Competing in AI/ML Hackathons on Devpost & Unstop
-
-hackathons  : 10 participated | 7 projects shipped on Devpost
-achievements: SIH Runner-Up | SSIP Grantee | Kshitij Datathon 3rd Place
-
-goal        : "Build AI solutions that create real-world impact." 🎯
+```
+✅  Founding AI/ML Engineer @ Aegis Whistle   →  Building Vision + RAG + Agent SaaS
+✅  INR 2,49,000 SSIP Grant                   →  Object detection deployed in production
+✅  Smart India Hackathon Runner-Up            →  Top 2 nationally out of 50,000+ teams
+✅  10 Hackathons | 7 Live Devpost Projects    →  Shipped across Voice AI, CV, LLMs, Web
+✅  IBM Internship                             →  Full-stack Django platform, live product
+✅  Kshitij 2025 × Altair Datathon — 3rd      →  Ensemble ML model, RapidMiner + AI
 ```
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🚀 What I Build
+
+> I don't just prototype — I take AI from idea → working product → deployed.
 
 <div align="center">
 
-| 🥈 Smart India Hackathon | 🥉 Kshitij 2025 × Altair Datathon | 💰 SSIP Hackathon |
-|:---:|:---:|:---:|
-| **Runner-Up** – National-level innovation challenge tackling complex real-world problems | **3rd Place** – Ensemble classification model using RapidMiner & AI analytics | **INR 2,49,000 Funded** – Object detection system greenlit for real-world deployment |
+### 🏗️ Hackathon Projects — Shipped & Live
+
+| Project | What It Does | Impact |
+|:---|:---|:---:|
+| 🎤 **[Amigo](https://devpost.com/software/amigo-dcmekb)** | AI Interview Coach — voice-first, PDF-to-interview engine | ElevenLabs + Ragie |
+| 💻 **[LocalLogic](https://devpost.com/software/locallogic)** | 100% offline AI coding assistant, $0 API cost, DeepSeek-R1 | Privacy-first SaaS |
+| 💊 **[KnowYourMedicine](https://devpost.com/software/knowyourmedicine-s4kv6h)** | Snap a pill → instant info + multilingual health tips | Healthcare × Vision AI |
+| 👨‍🍳 **[CookifyAI](https://devpost.com/software/cookifyai)** | AI sous chef: voice chat + photo analysis + viral video gen | AWS-powered |
+| 👗 **[Atelier](https://devpost.com/software/atelier-custom-fashion-design-platform)** | AI fashion e-commerce for Patola & contemporary styles | NLP + Smart Chat |
+| 🖼️ **[WallCraft](https://devpost.com/software/image-understanding)** | Next.js wallpaper studio with real-time editing & live preview | Image Processing |
+| 🦁 **[Wildscape](https://devpost.com/software/wildscape-7tvuih)** | Wildlife conservation — Carbon Coins funding conservation | Social Impact |
+
+> 🔗 **[See all 7 projects on Devpost →](https://devpost.com/maahinpanchal)**
 
 </div>
 
 ---
 
-## 🔗 Connect With Me
+### 🛠️ Other Production Work
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maahin%20Panchal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/maahin-vimlesh-panchal)
-&nbsp;
-[![Devpost](https://img.shields.io/badge/Devpost-7%20Projects%20%7C%2010%20Hackathons-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/maahinpanchal)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-MaahinVPanchal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaahinVPanchal)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maahinvpanchal@gmail.com)
-&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-maahinpanchal-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maahinpanchal)
-&nbsp;
-[![Unstop](https://img.shields.io/badge/Unstop-Competitions-FF6B35?style=for-the-badge&logoColor=white)](https://unstop.com)
-
-</div>
-
----
-
-## 🚀 Devpost Projects — 7 Shipped Across 10 Hackathons
-
-> 🔗 **[View Full Portfolio on Devpost →](https://devpost.com/maahinpanchal)**
-
-<div align="center">
-
-| 🏗️ Project | 📝 Description | ⚙️ Built With |
+| Project | Stack | Context |
 |:---|:---|:---|
-| 🎤 **[Amigo](https://devpost.com/software/amigo-dcmekb)** | AI Interview Coach — turns static PDFs into a dynamic real-time voice interview experience | Ragie, ElevenLabs, Voice AI |
-| 💻 **[LocalLogic](https://devpost.com/software/locallogic)** | Sovereign offline AI coding with DeepSeek-R1 & RunAnywhere — 100% private, $0 API cost | DeepSeek-R1, Local AI |
-| 💊 **[KnowYourMedicine](https://devpost.com/software/knowyourmedicine-s4kv6h)** | Snap a medicine photo → get instant details, wellness tips & multilingual translations | Computer Vision, Healthcare AI |
-| 👨‍🍳 **[CookifyAI](https://devpost.com/software/cookifyai)** | AI sous chef with voice chat + photo analysis + auto-generated viral cooking videos | AWS, Voice AI, Vision |
-| 👗 **[Atelier](https://devpost.com/software/atelier-custom-fashion-design-platform)** | AI-powered e-commerce for traditional Patola & contemporary fashion with smart chat | NLP, E-commerce, AI |
-| 🖼️ **[WallCraft](https://devpost.com/software/image-understanding)** | Next.js wallpaper manager with real-time editing tools, auto-rotation & live preview | Next.js, Image Processing |
-| 🦁 **[Wildscape](https://devpost.com/software/wildscape-7tvuih)** | Wildlife conservation platform — earn Carbon Coins for sanctuaries & fund conservation | Social Impact, Gamification |
+| 🍽️ **Food Donation Platform** | Django · PostgreSQL · REST API | IBM Internship — live product connecting restaurants & NGOs |
+| ⌨️ **Keyboard Object Detection** | TensorFlow · Roboflow · OpenCV | SSIP Funded — INR 2,49,000 · production deployment |
+| 📊 **Financial Report Analyzer** | Python · OpenAI API · Streamlit | Balance sheet AI with auto-generated insights |
+| 🤖 **RAG Chatbot** | LangChain · Python · Streamlit | PDF/doc Q&A system with vector retrieval |
+| 📱 **Screen Crack Detector** | TensorFlow · OpenCV | Damage detection model for device screens |
 
 </div>
 
 ---
 
-## 💼 Other Projects
+## 💼 Experience & Role
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Founding AI/ML Engineer
+**Aegis Whistle** · *Current*
+
+Building end-to-end SaaS products:
+- 🔭 **Vision AI** pipelines for real-world detection
+- 🧠 **RAG systems** with LangChain + vector DBs
+- ⚡ **Real-time AI Agents** for automation
+- 🌐 **Full-stack** FastAPI + React deployments
+
+</td>
+<td width="50%">
+
+### 🧑‍💼 Full Stack Developer Intern
+**IBM** · *Completed*
+
+- Built **Food Donation Platform** in Django
+- Connected 50+ restaurants with local NGOs
+- REST API backend + live deployment
+- Reduced food waste through real-time matching
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Credentials That Matter to Startups
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|:---|:---|:---|
-| 🔍 **Google Clone** | Fully functional search engine UI replica | React JS, CSS |
-| 📊 **Financial Report Analyzer** | AI-powered balance sheet insights with OpenAI | Python, OpenAI API, Streamlit |
-| 🤖 **RAG Chatbot** | Query answering bot from uploaded PDFs/docs | LangChain, Python, Streamlit |
-| ⌨️ **Keyboard Object Detection** | Detects keyboard parts in real-time (SSIP-funded) | TensorFlow, Roboflow, OpenCV |
-| 📱 **Screen Crack Detector** | Identifies cracked/damaged screen regions | TensorFlow, OpenCV, Python |
-| ✈️ **Telegram Bot Automation** | Message delivery and workflow automation | Python, Telegram API |
-| 🍽️ **Food Donation Platform** | Connects restaurants & NGOs to cut food waste *(IBM Internship)* | Django, Python, PostgreSQL |
+| 🎖️ Award | 🏆 Result | 📌 What It Proves |
+|:---|:---:|:---|
+| Smart India Hackathon 2023 | 🥈 **Runner-Up** | Top-tier problem solving at national scale |
+| SSIP Hackathon | 💰 **INR 2,49,000** | Real funding for a real product |
+| Kshitij 2025 × Altair Datathon | 🥉 **3rd Place** | Production ML under competition pressure |
+| Devpost Hackathons | 🚢 **7 shipped** | I finish what I start |
+| IBM Internship | ✅ **Live product** | Enterprise-grade development experience |
+| Google AI Essentials | 📜 **Certified** | Structured AI/ML foundation |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 📚 Programming Languages
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</div>
-
-### ⚡ Web Frameworks & Libraries
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</div>
-
-### 🧠 AI / ML / Agents
-<div align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DeepSeek-0055FF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Roboflow-8E44AD?style=for-the-badge&logoColor=white"/>
-</div>
-
-### 🛢️ Databases & Caching
-<div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
-</div>
-
-### ☁️ Cloud & DevOps
-<div align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaahinVPanchal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="165" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaahinVPanchal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false" height="165" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MaahinVPanchal&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaahinVPanchal&theme=nightowl&area=true&hide_border=false&hide_title=false&radius=7" height="220" alt="Activity Graph"/>
-</div>
-
----
-
-## 📊 Kaggle Profile
+## 🧠 Tech Stack — Startup-Ready
 
 <div align="center">
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-maahinpanchal-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maahinpanchal)
+**AI / ML / Agents**
 
-> 🔗 **[View Kaggle Profile, Notebooks & Competitions →](https://www.kaggle.com/maahinpanchal)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0055FF?style=flat-square&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-8E44AD?style=flat-square&logoColor=white)
 
-| 🏅 Competitions | 📓 Notebooks | 📦 Datasets | 💬 Discussions |
-|:---:|:---:|:---:|:---:|
-| Active Participant | Public Notebooks | Shared Datasets | Community Contributor |
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Data & Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaahinVPanchal&theme=algolia&no-frame=false&no-bg=false&margin-w=12&margin-h=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaahinVPanchal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaahinVPanchal&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MaahinVPanchal&theme=tokyonight&hide_border=true&background=0d1117&ring=1a56db&fire=60a5fa&currStreakLabel=60a5fa" height="145"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaahinVPanchal&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=60a5fa&line=1a56db&point=60a5fa" height="210"/>
 </div>
 
 ---
 
-## 📚 Education & Certifications
+## 🎓 Education
 
 | 🎓 Degree | 🏫 Institution | 📅 Year |
 |:---|:---|:---:|
-| B.E. – Computer Engineering | L.D. College of Engineering, Ahmedabad (GTU) | 2021 – 2025 |
-
-### 📜 Certifications & Programs
-- 🤖 **Google AI Essentials** – Google
-- 🏢 **IBM Internship** – Full Stack Developer (Food Donation Platform)
-- 🏆 **Smart India Hackathon 2023** – Runner-Up
-- 🥉 **Kshitij 2025 × Altair Datathon** – 3rd Place
-- 💰 **SSIP Hackathon** – Funded Project (INR 2,49,000)
-- 🎯 **10 Hackathons** completed on Devpost
+| B.E. — Computer Engineering | L.D. College of Engineering, Ahmedabad · GTU | 2021 – 2025 |
 
 ---
 
-## 💼 Experience
-
-### 🚀 Founding AI/ML Engineer — Aegis Whistle
-> Building production SaaS products powered by Vision AI, RAG pipelines & Real-time Agents
-
-### 🧑‍💼 IBM Internship — Full Stack Developer
-> Built a **Food Donation Platform** using **Django** connecting restaurants with NGOs to reduce food waste via real-time donation matching
-
----
-
-## 🌟 Currently Building
-
-```python
-current_focus = {
-    "role"     : "Founding AI/ML Engineer @ Aegis Whistle",
-    "building" : "SaaS with Vision + RAG + Real-time Agents",
-    "funded"   : "Object Detection System — INR 2,49,000 (SSIP)",
-    "stack"    : ["LangChain", "AWS", "FastAPI", "TensorFlow", "DeepSeek", "ElevenLabs"],
-    "goal"     : "Ship AI products that create meaningful real-world impact 🚀"
-}
-```
-
----
-
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaahinVPanchal/maahin/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaahinVPanchal/maahin/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/MaahinVPanchal/maahin/output/github-snake-dark.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/MaahinVPanchal/maahin/output/github-snake-dark.svg"/>
   </picture>
 </div>
 
@@ -272,14 +212,22 @@ current_focus = {
 
 <div align="center">
 
-### 💬 *"Every project I build is a step toward leveraging technology for meaningful solutions."*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1f6e&height=2&section=header" width="100%"/>
+
+### 🤝 Open to Founding Engineer Roles · AI Contracts · Collaborations
+
+*I ship fast, learn faster, and I don't disappear after the MVP.*
 
 <br/>
 
-[![Devpost](https://img.shields.io/badge/See%20My%20Hackathon%20Projects-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/maahinpanchal)
+[![Let's Talk](https://img.shields.io/badge/📬%20Let's%20Talk-maahinvpanchal%40gmail.com-1a56db?style=for-the-badge)](mailto:maahinvpanchal@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/maahin-vimlesh-panchal)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/maahin-vimlesh-panchal)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Projects-Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/maahinpanchal)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:0d1117&height=120&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1f6e,100:000000&height=100&section=footer" width="100%"/>
 
 </div>
