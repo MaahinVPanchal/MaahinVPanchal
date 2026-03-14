@@ -1,156 +1,104 @@
-<h2 align="left">My name is Maahin Panchal, and I'm a final-year engineering student at LD College of Engineering, Ahmedabad.</h2>
-<hr/>
-###
+<div align="center">
 
-<p align="left">📚 I'm currently learning advanced AI and ML concepts through the Google AI Essentials course and actively participating in various AI/ML competitions on Unstop.<br>🎯 Goals: To become an AI/ML specialist and use technology to solve real-world problems.<br><br>😊 Proud runner-up at the Smart India Hackathon, where my team showcased innovative problem-solving skills to tackle complex challenges.<br><br>Currently, I am enhancing object detection systems, a project that originated from the SSIP Hackathon, where we secured INR 2,49,000 in funding for our groundbreaking ideas. Recently, I also achieved 3rd place in the Kshitij 2025 x Altair Datathon, where I built an ensemble classification model using RapidMiner and AI-driven analytics.<br><br>My technical expertise spans Python, Flask, Django, React JS, Streamlit, and tools like OpenCV, scikit-learn, TensorFlow, and LangChain. <br>🚀 Let’s connect and explore opportunities to innovate together! 😊</p>
+# 👋 Maahin Vimlesh Panchal
 
-###
+### Final Year Engineering Student · LD College of Engineering, Ahmedabad  
+### 🎯 Aspiring AI/ML Specialist · Building tech for real-world impact
 
-<h3 align="left">Tech Stack & Tools</h3>
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Connect&color=0077B5&logoColor=white&style=for-the-badge)](https://linkedin.com/in/maahinpanchal)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=Email&color=D14836&logoColor=white&style=for-the-badge)](mailto:maahin.panchal@gmail.com)
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
-###
+---
 
-<h4 align="left">📚 Programming Languages</h4>
+## 🏆 Highlights & Achievements
 
-###
+| Achievement | Details |
+|-------------|---------|
+| 🥈 **Smart India Hackathon** | Runner-up — innovative problem-solving at national level |
+| 💰 **SSIP Hackathon** | **INR 2,49,000** funding for object detection project (keyboard parts) |
+| 🥉 **Kshitij 2025 × Altair Datathon** | 3rd place — ensemble classification model with RapidMiner & AI-driven analytics (IIT Kharagpur) |
+| 📚 **Google AI Essentials** | Completing advanced AI/ML course |
+| 🏅 **Unstop** | Active in AI/ML competitions |
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+---
 
-###
+## 📖 About Me
 
-<h4 align="left">⚡ Web Frameworks & Libraries</h4>
+I'm **Maahin Vimlesh Panchal**, a final-year engineering student at **LD College of Engineering, Ahmedabad**. I focus on **AI/ML** and full-stack development to solve real-world problems.
 
-###
+- 🔬 **Currently:** Enhancing object detection systems (evolved from SSIP Hackathon project)
+- 🎓 **Goal:** Become an AI/ML specialist and use technology for meaningful solutions
+- 🛠 **Tech:** Python, Flask, Django, React, Streamlit, OpenCV, scikit-learn, TensorFlow, LangChain
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-</div>
+*Let's connect and explore opportunities to innovate together!*
 
-###
+---
 
-<h4 align="left">🛢️ Databases & Caching</h4>
+## 🛠 Tech Stack & Tools
 
-###
+### 📚 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-</div>
+### ⚡ Frameworks & ML
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-###
+### 🗄 Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="30" alt="amazondynamodb logo"  />
-</div>
+---
 
-###
+## 🚀 Projects
 
-<h4 align="left">📊 Data Science & ML Tools</h4>
+| Project | Description |
+|---------|-------------|
+| 🔍 **Google Clone** | Search UI built with React JS |
+| 📊 **Financial Report Analyzer** | Balance sheet insights with OpenAI integration |
+| 🤖 **RAG Chatbot** | Query answers from uploaded PDFs/documents |
+| ⌨️ **Object Detection** | Keyboard parts detection (TensorFlow + Roboflow) — SSIP-funded |
+| 📱 **Screen Crack Detection** | ML model to identify damaged screen areas |
+| ✈️ **Telegram Bot** | Token integration for messaging and automation |
+| 🍽️ **Food Donation Platform** | Django app connecting restaurants with NGOs (IBM internship) — reducing food waste |
 
-###
+*Every project is a step toward using technology for meaningful solutions.*
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
-</div>
+---
 
-###
-
-<h4 align="left">🛠️ DevOps & Deployment</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-</div>
-
-###
-
-<h4 align="left">🔧 Tools & APIs</h4>
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaahinVpanchal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaahinVpanchal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="163" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MaahinVpanchal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaahinVpanchal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="163" alt="Top languages" />
 </div>
-
-###
-
-<img align="left" height="210" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"  />
-
-###
-
-<p align="left">These skills have enabled me to develop a range of innovative projects, including:<br><br>🔍 Google clone using React JS.<br>📊 Financial report analyzer (balance sheets) with OpenAI integration for generating insights.<br>🤖 RAG-based chatbot for answering queries using uploaded PDFs and documents.<br>⌨️ Object detection for keyboard parts using TensorFlow and Roboflow.<br>📱 Screen crack detection model to identify damaged areas.<br>✈️ Telegram bot token integration for message delivery and automation.<br>🍽️ Food donation platform developed during my IBM internship using Django, to connect restaurants with NGOs for reducing food waste.<br>Beyond coding, I am passionate about applying AI & ML to real-world problems — from object detection and financial analysis to chatbot development and social impact initiatives. Every project I build is a step toward leveraging technology for meaningful solutions.</p>
-
-###
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=MaahinVpanchal&theme=gruvbox&no-frame=true&no-bg=true&margin-w=31&margin-h=4&row=3&column=4" height="150" alt="trophy graph"  />
-  <img src="https://streak-stats.demolab.com?user=MaahinVpanchal&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaahinVpanchal&theme=nightowl&area=true&hide_border=false&hide_title=false&radius=7" height="205" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=MaahinVpanchal&theme=gruvbox&no-frame=true&no-bg=true&margin-w=31&margin-h=4&row=3&column=4" height="150" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com?user=MaahinVpanchal&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5" height="150" alt="Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaahinVpanchal&theme=nightowl&area=true&hide_border=false&hide_title=false&radius=7" height="205" alt="Activity graph" />
 </div>
 
-###
+---
 
-<br clear="both">
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaahinVPanchal/maahin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaahinVPanchal/maahin/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MaahinVPanchal/maahin/output/github-snake-dark.svg" />
-  
-</picture>
+<img src="https://raw.githubusercontent.com/MaahinVPanchal/maahin/output/github-snake-dark.svg" alt="Contribution snake" />
 
-###
+*Last updated with your achievements and tech stack — Maahin Vimlesh Panchal*
+
+</div>
