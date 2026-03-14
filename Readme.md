@@ -23,7 +23,9 @@
 <a href="mailto:maahinvpanchal@gmail.com">
   <img src="https://img.shields.io/badge/Hire%20Me-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=MaahinVPanchal&style=for-the-badge&color=0e7490&label=Profile+Views"/>
+<a href="https://github.com/MaahinVPanchal">
+  <img src="https://img.shields.io/badge/Profile%20Views-Click%20to%20visit-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/>
+</a>
 
 </div>
 
@@ -36,19 +38,19 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td align="center" width="160">
-<img src="https://img.shields.io/badge/10-Hackathons-0ea5e9?style=flat-square&labelColor=0f172a" height="28"/>
+<a href="https://devpost.com/maahinpanchal"><img src="https://img.shields.io/badge/10-Hackathons-0ea5e9?style=flat-square&labelColor=0f172a" height="28" alt="10 Hackathons"/></a>
 </td>
 <td align="center" width="160">
-<img src="https://img.shields.io/badge/7-Shipped%20Products-6366f1?style=flat-square&labelColor=0f172a" height="28"/>
+<a href="https://devpost.com/maahinpanchal"><img src="https://img.shields.io/badge/7-Shipped%20Products-6366f1?style=flat-square&labelColor=0f172a" height="28" alt="7 Shipped Products"/></a>
 </td>
 <td align="center" width="160">
-<img src="https://img.shields.io/badge/₹2%2C49%2C000-SSIP%20Funded-22c55e?style=flat-square&labelColor=0f172a" height="28"/>
+<img src="https://img.shields.io/badge/₹2%2C49%2C000-SSIP%20Funded-22c55e?style=flat-square&labelColor=0f172a" height="28" alt="SSIP Funded"/>
 </td>
 <td align="center" width="160">
-<img src="https://img.shields.io/badge/500%2B-Contributions-f59e0b?style=flat-square&labelColor=0f172a" height="28"/>
+<a href="https://github.com/MaahinVPanchal"><img src="https://img.shields.io/badge/500%2B-Contributions-f59e0b?style=flat-square&labelColor=0f172a" height="28" alt="Contributions"/></a>
 </td>
 <td align="center" width="160">
-<img src="https://img.shields.io/badge/33-Public%20Repos-ec4899?style=flat-square&labelColor=0f172a" height="28"/>
+<a href="https://github.com/MaahinVPanchal?tab=repositories"><img src="https://img.shields.io/badge/33-Public%20Repos-ec4899?style=flat-square&labelColor=0f172a" height="28" alt="Public Repos"/></a>
 </td>
 </tr>
 </table>
