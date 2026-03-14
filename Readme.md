@@ -175,17 +175,29 @@ Building end-to-end SaaS products:
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaahinVPanchal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaahinVPanchal&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" height="160"/>
+
+<!-- Most reliable stats card — no commit count, avoids the fetch error -->
+<img src="https://github-readme-stats.vercel.app/api?username=MaahinVPanchal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&icon_color=60a5fa&text_color=c9d1d9&hide=contribs&rank_icon=github" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaahinVPanchal&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60a5fa&text_color=c9d1d9" height="165"/>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MaahinVPanchal&theme=tokyonight&hide_border=true&background=0d1117&ring=1a56db&fire=60a5fa&currStreakLabel=60a5fa" height="145"/>
+
+<!-- Activity graph — most reliable of the three services -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaahinVPanchal&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=60a5fa&line=1a56db&point=60a5fa&radius=6" width="95%"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaahinVPanchal&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=60a5fa&line=1a56db&point=60a5fa" height="210"/>
+
+<!-- Key numbers as static shields — always visible, never break -->
+![Repos](https://img.shields.io/badge/Public%20Repos-33-1a56db?style=for-the-badge&logo=github&logoColor=white)
+![Since](https://img.shields.io/badge/GitHub%20Since-2023-60a5fa?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions-500%2B-22c55e?style=for-the-badge&logo=git&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Hackathons-10-f59e0b?style=for-the-badge&logo=devpost&logoColor=white)
+
 </div>
 
 ---
