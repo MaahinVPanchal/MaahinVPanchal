@@ -43,15 +43,15 @@
 
 ### 🏗️ Hackathon Projects — Shipped & Live
 
-| Project | What It Does | Impact |
-|:---|:---|:---:|
-| 🎤 **[Amigo](https://devpost.com/software/amigo-dcmekb)** | AI Interview Coach — voice-first, PDF-to-interview engine | ElevenLabs + Ragie |
-| 💻 **[LocalLogic](https://devpost.com/software/locallogic)** | 100% offline AI coding assistant, $0 API cost, DeepSeek-R1 | Privacy-first SaaS |
-| 💊 **[KnowYourMedicine](https://devpost.com/software/knowyourmedicine-s4kv6h)** | Snap a pill → instant info + multilingual health tips | Healthcare × Vision AI |
-| 👨‍🍳 **[CookifyAI](https://devpost.com/software/cookifyai)** | AI sous chef: voice chat + photo analysis + viral video gen | AWS-powered |
-| 👗 **[Atelier](https://devpost.com/software/atelier-custom-fashion-design-platform)** | AI fashion e-commerce for Patola & contemporary styles | NLP + Smart Chat |
-| 🖼️ **[WallCraft](https://devpost.com/software/image-understanding)** | Next.js wallpaper studio with real-time editing & live preview | Image Processing |
-| 🦁 **[Wildscape](https://devpost.com/software/wildscape-7tvuih)** | Wildlife conservation — Carbon Coins funding conservation | Social Impact |
+| Project                                                                               | What It Does                                                   |         Impact         |
+| :------------------------------------------------------------------------------------ | :------------------------------------------------------------- | :--------------------: |
+| 🎤 **[Amigo](https://devpost.com/software/amigo-dcmekb)**                             | AI Interview Coach — voice-first, PDF-to-interview engine      |   ElevenLabs + Ragie   |
+| 💻 **[LocalLogic](https://devpost.com/software/locallogic)**                          | 100% offline AI coding assistant, $0 API cost, DeepSeek-R1     |   Privacy-first SaaS   |
+| 💊 **[KnowYourMedicine](https://devpost.com/software/knowyourmedicine-s4kv6h)**       | Snap a pill → instant info + multilingual health tips          | Healthcare × Vision AI |
+| 👨‍🍳 **[CookifyAI](https://devpost.com/software/cookifyai)**                            | AI sous chef: voice chat + photo analysis + viral video gen    |      AWS-powered       |
+| 👗 **[Atelier](https://devpost.com/software/atelier-custom-fashion-design-platform)** | AI fashion e-commerce for Patola & contemporary styles         |    NLP + Smart Chat    |
+| 🖼️ **[WallCraft](https://devpost.com/software/image-understanding)**                  | Next.js wallpaper studio with real-time editing & live preview |    Image Processing    |
+| 🦁 **[Wildscape](https://devpost.com/software/wildscape-7tvuih)**                     | Wildlife conservation — Carbon Coins funding conservation      |     Social Impact      |
 
 > 🔗 **[See all 7 projects on Devpost →](https://devpost.com/maahinpanchal)**
 
@@ -63,13 +63,13 @@
 
 <div align="center">
 
-| Project | Stack | Context |
-|:---|:---|:---|
-| 🍽️ **Food Donation Platform** | Django · PostgreSQL · REST API | IBM Internship — live product connecting restaurants & NGOs |
-| ⌨️ **Keyboard Object Detection** | TensorFlow · Roboflow · OpenCV | SSIP Funded — INR 2,49,000 · production deployment |
-| 📊 **Financial Report Analyzer** | Python · OpenAI API · Streamlit | Balance sheet AI with auto-generated insights |
-| 🤖 **RAG Chatbot** | LangChain · Python · Streamlit | PDF/doc Q&A system with vector retrieval |
-| 📱 **Screen Crack Detector** | TensorFlow · OpenCV | Damage detection model for device screens |
+| Project                          | Stack                           | Context                                                     |
+| :------------------------------- | :------------------------------ | :---------------------------------------------------------- |
+| 🍽️ **Food Donation Platform**    | Django · PostgreSQL · REST API  | IBM Internship — live product connecting restaurants & NGOs |
+| ⌨️ **Keyboard Object Detection** | TensorFlow · Roboflow · OpenCV  | SSIP Funded — INR 2,49,000 · production deployment          |
+| 📊 **Financial Report Analyzer** | Python · OpenAI API · Streamlit | Balance sheet AI with auto-generated insights               |
+| 🤖 **RAG Chatbot**               | LangChain · Python · Streamlit  | PDF/doc Q&A system with vector retrieval                    |
+| 📱 **Screen Crack Detector**     | TensorFlow · OpenCV             | Damage detection model for device screens                   |
 
 </div>
 
@@ -82,9 +82,11 @@
 <td width="50%">
 
 ### 🚀 Founding AI/ML Engineer
-**Aegis Whistle** · *Current*
+
+**Aegis Whistle** · _Current_
 
 Building end-to-end SaaS products:
+
 - 🔭 **Vision AI** pipelines for real-world detection
 - 🧠 **RAG systems** with LangChain + vector DBs
 - ⚡ **Real-time AI Agents** for automation
@@ -94,7 +96,8 @@ Building end-to-end SaaS products:
 <td width="50%">
 
 ### 🧑‍💼 Full Stack Developer Intern
-**IBM** · *Completed*
+
+**IBM** · _Completed_
 
 - Built **Food Donation Platform** in Django
 - Connected 50+ restaurants with local NGOs
@@ -111,14 +114,14 @@ Building end-to-end SaaS products:
 
 <div align="center">
 
-| 🎖️ Award | 🏆 Result | 📌 What It Proves |
-|:---|:---:|:---|
-| Smart India Hackathon 2023 | 🥈 **Runner-Up** | Top-tier problem solving at national scale |
-| SSIP Hackathon | 💰 **INR 2,49,000** | Real funding for a real product |
-| Kshitij 2025 × Altair Datathon | 🥉 **3rd Place** | Production ML under competition pressure |
-| Devpost Hackathons | 🚢 **7 shipped** | I finish what I start |
-| IBM Internship | ✅ **Live product** | Enterprise-grade development experience |
-| Google AI Essentials | 📜 **Certified** | Structured AI/ML foundation |
+| 🎖️ Award                       |      🏆 Result      | 📌 What It Proves                          |
+| :----------------------------- | :-----------------: | :----------------------------------------- |
+| Smart India Hackathon 2023     |  🥈 **Runner-Up**   | Top-tier problem solving at national scale |
+| SSIP Hackathon                 | 💰 **INR 2,49,000** | Real funding for a real product            |
+| Kshitij 2025 × Altair Datathon |  🥉 **3rd Place**   | Production ML under competition pressure   |
+| Devpost Hackathons             |  🚢 **7 shipped**   | I finish what I start                      |
+| IBM Internship                 | ✅ **Live product** | Enterprise-grade development experience    |
+| Google AI Essentials           |  📜 **Certified**   | Structured AI/ML foundation                |
 
 </div>
 
@@ -128,45 +131,36 @@ Building end-to-end SaaS products:
 
 <div align="center">
 
-**AI / ML / Agents**
+#### 🤖 AI · ML · Agents · LLMs
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0055FF?style=flat-square&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-8E44AD?style=flat-square&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,aws,docker&theme=dark" />
 
-**Backend & APIs**
+#### 🌐 Frontend · Backend · Databases
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite&theme=dark" />
 
-**Frontend**
+#### 🛠️ Tools · DevOps · Platforms
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=jupyter,anaconda,kaggle,streamlit,linux&theme=dark" />
 
-**Data & Databases**
+<br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+<!-- Specialist tools without skillicons support -->
 
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Also proficient in:**
+&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-8E44AD?style=for-the-badge&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-0055FF?style=for-the-badge&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
 </div>
 
@@ -193,6 +187,7 @@ Building end-to-end SaaS products:
 <div align="center">
 
 <!-- Key numbers as static shields — always visible, never break -->
+
 ![Repos](https://img.shields.io/badge/Public%20Repos-33-1a56db?style=for-the-badge&logo=github&logoColor=white)
 ![Since](https://img.shields.io/badge/GitHub%20Since-2023-60a5fa?style=for-the-badge&logo=github&logoColor=white)
 ![Contributions](https://img.shields.io/badge/Contributions-500%2B-22c55e?style=for-the-badge&logo=git&logoColor=white)
@@ -204,8 +199,8 @@ Building end-to-end SaaS products:
 
 ## 🎓 Education
 
-| 🎓 Degree | 🏫 Institution | 📅 Year |
-|:---|:---|:---:|
+| 🎓 Degree                   | 🏫 Institution                               |   📅 Year   |
+| :-------------------------- | :------------------------------------------- | :---------: |
 | B.E. — Computer Engineering | L.D. College of Engineering, Ahmedabad · GTU | 2021 – 2025 |
 
 ---
@@ -228,7 +223,7 @@ Building end-to-end SaaS products:
 
 ### 🤝 Open to Founding Engineer Roles · AI Contracts · Collaborations
 
-*I ship fast, learn faster, and I don't disappear after the MVP.*
+_I ship fast, learn faster, and I don't disappear after the MVP._
 
 <br/>
 
