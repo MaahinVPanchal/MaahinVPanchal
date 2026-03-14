@@ -209,7 +209,7 @@ goal        : "Build AI solutions that create real-world impact." 🎯
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app?username=MaahinVpanchal&theme=algolia&no-frame=false&no-bg=false&margin-w=12&margin-h=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MaahinVpanchal&theme=algolia&no-frame=false&no-bg=false&margin-w=12&margin-h=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
