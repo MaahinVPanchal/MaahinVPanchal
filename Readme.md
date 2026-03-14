@@ -10,23 +10,11 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MaahinVpanchal&label=Profile%20Views&color=0d47a1&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=MaahinVPanchal&label=Profile%20Views&color=0d47a1&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
-<a href="https://github.com/MaahinVpanchal?tab=followers">
-  <img src="https://img.shields.io/github/followers/MaahinVpanchal?label=Followers&style=for-the-badge&color=0d47a1" alt="Followers"/>
+<a href="https://github.com/MaahinVPanchal?tab=followers">
+  <img src="https://img.shields.io/github/followers/MaahinVPanchal?label=Followers&style=for-the-badge&color=0d47a1" alt="Followers"/>
 </a>
-
-</div>
-
----
-
-## 🏛️ Affiliations & Hackathon Ecosystem
-
-<div align="center">
-
-*A snapshot of the institutions, programs, and platforms that shape my journey — from academic roots to hackathon wins and AI communities.*
-
-<img src="image.png" alt="Affiliations: DA-IICT, SSIP, Smart India Hackathon, Altair, Unstop, AI Tinkerers, and hackathon projects (AI Vibe Coding, AWS AI Agent, AI SaaS, Amazon Nova)" width="100%"/>
 
 </div>
 
@@ -81,7 +69,7 @@ goal        : "Build AI solutions that create real-world impact." 🎯
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maahinvpanchal@gmail.com)
 &nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/MaahinVpanchal)
+[![Kaggle](https://img.shields.io/badge/Kaggle-maahinpanchal-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maahinpanchal)
 &nbsp;
 [![Unstop](https://img.shields.io/badge/Unstop-Competitions-FF6B35?style=for-the-badge&logoColor=white)](https://unstop.com)
 
@@ -191,17 +179,33 @@ goal        : "Build AI solutions that create real-world impact." 🎯
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaahinVpanchal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaahinVPanchal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="165" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaahinVpanchal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false" height="165" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaahinVPanchal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false" height="165" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MaahinVpanchal&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=MaahinVPanchal&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaahinVpanchal&theme=nightowl&area=true&hide_border=false&hide_title=false&radius=7" height="220" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaahinVPanchal&theme=nightowl&area=true&hide_border=false&hide_title=false&radius=7" height="220" alt="Activity Graph"/>
+</div>
+
+---
+
+## 📊 Kaggle Profile
+
+<div align="center">
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-maahinpanchal-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/maahinpanchal)
+
+> 🔗 **[View Kaggle Profile, Notebooks & Competitions →](https://www.kaggle.com/maahinpanchal)**
+
+| 🏅 Competitions | 📓 Notebooks | 📦 Datasets | 💬 Discussions |
+|:---:|:---:|:---:|:---:|
+| Active Participant | Public Notebooks | Shared Datasets | Community Contributor |
+
 </div>
 
 ---
@@ -251,6 +255,18 @@ current_focus = {
     "goal"     : "Ship AI products that create meaningful real-world impact 🚀"
 }
 ```
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaahinVPanchal/maahin/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaahinVPanchal/maahin/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MaahinVPanchal/maahin/output/github-snake-dark.svg"/>
+  </picture>
+</div>
 
 ---
 
