@@ -1,11 +1,11 @@
 <!-- ████████████████████████  HEADER  ████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=vortex&color=0:020818,40:0f172a,70:1e3a8a,100:3b82f6&height=280&section=header&text=Maahin%20Panchal&fontSize=65&fontColor=f8fafc&animation=twinkling&fontAlignY=45&desc=Founding%20AI%20Engineer%20%E2%80%94%20I%20Build%20Things%20That%20Ship&descSize=18&descAlignY=62&descColor=93c5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,30:0f172a,70:1e3a8a,100:3b82f6&height=260&section=header&text=Maahin%20Panchal&fontSize=62&fontColor=f8fafc&animation=twinkling&fontAlignY=42&desc=Founding%20AI%20Engineer%20%E2%80%94%20I%20Build%20Things%20That%20Ship&descSize=17&descAlignY=60&descColor=93c5fd" width="100%"/>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=45&lines=⚡+Founding+AI%2FML+Engineer+%40+Aegis+Whistle;🧠+RAG+·+Vision+AI+·+Real-time+Agents+·+SaaS;🏆+SIH+Runner-Up+·+SSIP+INR+2%2C49%2C000+Funded;🚀+10+Hackathons+·+7+Live+Products+on+Devpost;🤝+Open+to+Founding+Roles+%26+AI+Contracts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=45&lines=%E2%9A%A1+Founding+AI%2FML+Engineer+%40+Aegis+Whistle;%F0%9F%A7%A0+RAG+%C2%B7+Vision+AI+%C2%B7+Real-time+Agents+%C2%B7+SaaS;%F0%9F%8F%86+SIH+Runner-Up+%C2%B7+SSIP+INR+2%2C49%2C000+Funded;%F0%9F%9A%80+10+Hackathons+%C2%B7+7+Live+Products+on+Devpost;%F0%9F%A4%9D+Open+to+Founding+Roles+%26+AI+Contracts" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -257,9 +257,27 @@ maahin = {
 
 <br/>
 
+<!-- ████████████████████████  AFFILIATIONS  ████████████████████████ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:7c3aed&height=3" width="100%"/>
+
+## 🏛️ Affiliations & Hackathon Ecosystem
+
+<div align="center">
+
+*Institutions, platforms, and communities that have shaped my journey — from funded research to national hackathon stages.*
+
+<br/>
+
+<img src="https://github.com/MaahinVPanchal/MaahinVPanchal/raw/main/image.png" alt="Affiliations — DA-IICT · SSIP · Smart India Hackathon · Altair · Unstop · AI Tinkerers · AWS AI Agent · Amazon Nova · AI SaaS" width="96%" style="border-radius:12px"/>
+
+</div>
+
+<br/>
+
 <!-- ████████████████████████  TECH STACK  ████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0e7490&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:0e7490&height=3" width="100%"/>
 
 ## 🧠 Tech Stack
 
