@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" role="img" aria-label="Bouncing balls in Joker colors with a fading HA HA HA laugh and a drawing smile">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0713"/>
+      <stop offset="0.5" stop-color="#150b26"/>
+      <stop offset="1" stop-color="#0b0713"/>
+    </linearGradient>
+    <radialGradient id="p" cx="0.35" cy="0.3" r="0.95">
+      <stop offset="0" stop-color="#ddd6fe"/>
+      <stop offset="0.45" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#4c1d95"/>
+    </radialGradient>
+    <radialGradient id="gg" cx="0.35" cy="0.3" r="0.95">
+      <stop offset="0" stop-color="#bbf7d0"/>
+      <stop offset="0.45" stop-color="#4ade80"/>
+      <stop offset="1" stop-color="#15803d"/>
+    </radialGradient>
+    <radialGradient id="gr" cx="0.35" cy="0.3" r="0.95">
+      <stop offset="0" stop-color="#fecaca"/>
+      <stop offset="0.45" stop-color="#ef4444"/>
+      <stop offset="1" stop-color="#991b1b"/>
+    </radialGradient>
+    <radialGradient id="gd" cx="0.35" cy="0.3" r="0.95">
+      <stop offset="0" stop-color="#fef3c7"/>
+      <stop offset="0.45" stop-color="#fbbf24"/>
+      <stop offset="1" stop-color="#b45309"/>
+    </radialGradient>
+    <radialGradient id="gw" cx="0.35" cy="0.3" r="0.95">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#cbd5e1"/>
+      <stop offset="1" stop-color="#64748b"/>
+    </radialGradient>
+    <radialGradient id="gm" cx="0.35" cy="0.3" r="0.95">
+      <stop offset="0" stop-color="#f5d0fe"/>
+      <stop offset="0.45" stop-color="#e879f9"/>
+      <stop offset="1" stop-color="#86198f"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1.5" y="1.5" width="797" height="217" rx="18" fill="url(#bg)" stroke="#7c3aed" stroke-opacity="0.45" stroke-width="3"/>
+
+  <!-- background laugh -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-style="italic">
+    <text x="66" y="70" font-size="30" fill="#8b5cf6">HA HA
+      <animate attributeName="opacity" values="0.05;0.2;0.05" dur="5s" repeatCount="indefinite"/>
+    </text>
+    <text x="620" y="96" font-size="22" fill="#ef4444">HA HA
+      <animate attributeName="opacity" values="0.04;0.18;0.04" dur="6.5s" begin="-2s" repeatCount="indefinite"/>
+    </text>
+    <text x="228" y="192" font-size="18" fill="#4ade80">ha ha ha
+      <animate attributeName="opacity" values="0.06;0.22;0.06" dur="7.5s" begin="-3.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="560" y="196" font-size="26" fill="#fbbf24">ha
+      <animate attributeName="opacity" values="0.05;0.2;0.05" dur="8s" begin="-1s" repeatCount="indefinite"/>
+    </text>
+    <text x="352" y="118" font-size="16" fill="#8b5cf6">HA HA HA
+      <animate attributeName="opacity" values="0.04;0.14;0.04" dur="9s" begin="-4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- tagline -->
+  <text x="400" y="46" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="18" font-style="italic" letter-spacing="7" fill="#4ade80">WHY SO SERIOUS?
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- the smile, drawing itself -->
+  <path d="M 310 150 Q 400 224 490 150" pathLength="100" fill="none" stroke="#4ade80" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="100" stroke-dashoffset="100" opacity="0">
+    <animate attributeName="stroke-dashoffset" values="100;0;0;100" keyTimes="0;0.35;0.65;1" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.3;0.7;1" dur="7s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- bouncing balls -->
+  <circle r="18" cx="60" cy="46" fill="url(#p)">
+    <animate attributeName="cy" values="46;176;46" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="60;340;60" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="14" cx="180" cy="40" fill="url(#gg)">
+    <animate attributeName="cy" values="40;180;40" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2s" begin="-0.7s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="180;520;180" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="12" cx="700" cy="52" fill="url(#gr)">
+    <animate attributeName="cy" values="52;182;52" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.2s" begin="-1.4s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="700;380;700" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="10" cx="420" cy="36" fill="url(#gd)">
+    <animate attributeName="cy" values="36;184;36" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="1.8s" begin="-0.3s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="420;680;420" dur="6.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="8" cx="540" cy="44" fill="url(#gw)">
+    <animate attributeName="cy" values="44;186;44" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.6s" begin="-1.9s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="540;120;540" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="16" cx="260" cy="58" fill="url(#gm)">
+    <animate attributeName="cy" values="58;178;58" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.8s" begin="-2.3s" repeatCount="indefinite"/>
+    <animate attributeName="cx" values="260;720;260" dur="11s" repeatCount="indefinite"/>
+  </circle>
+</svg>
