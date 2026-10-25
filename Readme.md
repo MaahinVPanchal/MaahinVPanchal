@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="joker-balls.svg" width="800" alt="Advanced Joker physics — balls with squash and stretch, motion trails and landing shadows, neon grin, rising HA HA HA laughs and sparkles"/>
+<img src="hackathon-hero.png" width="420" alt="Hackathon constellation — a builder ascends glowing stairs toward an orbit of NVIDIA, Nebius, Altair, SIH, SSIP and Devpost emblems"/>
 
 # Maahin Panchal
 
