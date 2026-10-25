@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="joker-balls.svg" width="760" alt="Bouncing balls in Joker colors — purple, green and red — over a fading HA HA HA laugh"/>
+<img src="joker-balls.svg" width="800" alt="Advanced Joker physics — balls with squash and stretch, motion trails and landing shadows, neon grin, rising HA HA HA laughs and sparkles"/>
 
 # Maahin Panchal
 

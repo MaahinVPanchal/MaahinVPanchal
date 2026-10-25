@@ -1,97 +1,396 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" role="img" aria-label="Bouncing balls in Joker colors with a fading HA HA HA laugh and a drawing smile">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="280" viewBox="0 0 840 280" role="img" aria-label="Advanced Joker physics: bouncing balls with squash, stretch, motion trails and shadows, neon smile, rising HA HA laughs and sparkles">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b0713"/>
       <stop offset="0.5" stop-color="#150b26"/>
       <stop offset="1" stop-color="#0b0713"/>
     </linearGradient>
-    <radialGradient id="p" cx="0.35" cy="0.3" r="0.95">
+    <radialGradient id="aura" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="p" cx="0.35" cy="0.28" r="0.95">
       <stop offset="0" stop-color="#ddd6fe"/>
-      <stop offset="0.45" stop-color="#8b5cf6"/>
+      <stop offset="0.45" stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#6366f1;#8b5cf6" dur="8s" repeatCount="indefinite"/>
+      </stop>
       <stop offset="1" stop-color="#4c1d95"/>
     </radialGradient>
-    <radialGradient id="gg" cx="0.35" cy="0.3" r="0.95">
+    <radialGradient id="gg" cx="0.35" cy="0.28" r="0.95">
       <stop offset="0" stop-color="#bbf7d0"/>
       <stop offset="0.45" stop-color="#4ade80"/>
       <stop offset="1" stop-color="#15803d"/>
     </radialGradient>
-    <radialGradient id="gr" cx="0.35" cy="0.3" r="0.95">
+    <radialGradient id="gr" cx="0.35" cy="0.28" r="0.95">
       <stop offset="0" stop-color="#fecaca"/>
       <stop offset="0.45" stop-color="#ef4444"/>
       <stop offset="1" stop-color="#991b1b"/>
     </radialGradient>
-    <radialGradient id="gd" cx="0.35" cy="0.3" r="0.95">
+    <radialGradient id="gd" cx="0.35" cy="0.28" r="0.95">
       <stop offset="0" stop-color="#fef3c7"/>
       <stop offset="0.45" stop-color="#fbbf24"/>
       <stop offset="1" stop-color="#b45309"/>
     </radialGradient>
-    <radialGradient id="gw" cx="0.35" cy="0.3" r="0.95">
+    <radialGradient id="gw" cx="0.35" cy="0.28" r="0.95">
       <stop offset="0" stop-color="#ffffff"/>
       <stop offset="0.5" stop-color="#cbd5e1"/>
       <stop offset="1" stop-color="#64748b"/>
     </radialGradient>
-    <radialGradient id="gm" cx="0.35" cy="0.3" r="0.95">
+    <radialGradient id="gm" cx="0.35" cy="0.28" r="0.95">
       <stop offset="0" stop-color="#f5d0fe"/>
-      <stop offset="0.45" stop-color="#e879f9"/>
+      <stop offset="0.45" stop-color="#e879f9">
+        <animate attributeName="stop-color" values="#e879f9;#f472b6;#e879f9" dur="10s" repeatCount="indefinite"/>
+      </stop>
       <stop offset="1" stop-color="#86198f"/>
     </radialGradient>
+    <radialGradient id="gt" cx="0.35" cy="0.28" r="0.95">
+      <stop offset="0" stop-color="#99f6e4"/>
+      <stop offset="0.45" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow2" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
 
-  <rect x="1.5" y="1.5" width="797" height="217" rx="18" fill="url(#bg)" stroke="#7c3aed" stroke-opacity="0.45" stroke-width="3"/>
+  <!-- backdrop -->
+  <rect x="0" y="0" width="840" height="280" rx="20" fill="url(#bg)"/>
+  <ellipse cx="420" cy="150" rx="310" ry="125" fill="url(#aura)">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="rx" values="300;330;300" dur="12s" repeatCount="indefinite"/>
+  </ellipse>
 
-  <!-- background laugh -->
+  <!-- card frame with marching ants -->
+  <rect x="2" y="2" width="836" height="276" rx="20" fill="none" stroke="#7c3aed" stroke-opacity="0.5" stroke-width="3"/>
+  <rect x="10" y="10" width="820" height="260" rx="14" fill="none" stroke="#4ade80" stroke-opacity="0.16" stroke-width="1.5" stroke-dasharray="3 9">
+    <animate attributeName="stroke-dashoffset" values="0;-24" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- corner suits -->
+  <text x="28" y="36" font-size="18" fill="#8b5cf6">♠
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="4.5s" repeatCount="indefinite"/>
+  </text>
+  <text x="812" y="36" font-size="18" fill="#4ade80" text-anchor="end">♥
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="5.5s" begin="-2s" repeatCount="indefinite"/>
+  </text>
+  <text x="28" y="270" font-size="18" fill="#4ade80">♦
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="5s" begin="-1s" repeatCount="indefinite"/>
+  </text>
+  <text x="812" y="270" font-size="18" fill="#8b5cf6" text-anchor="end">♣
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="6s" begin="-3s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- faint background laugh -->
   <g font-family="Georgia, 'Times New Roman', serif" font-style="italic">
-    <text x="66" y="70" font-size="30" fill="#8b5cf6">HA HA
+    <text x="66" y="82" font-size="30" fill="#8b5cf6">HA HA
       <animate attributeName="opacity" values="0.05;0.2;0.05" dur="5s" repeatCount="indefinite"/>
     </text>
-    <text x="620" y="96" font-size="22" fill="#ef4444">HA HA
+    <text x="634" y="106" font-size="22" fill="#ef4444">HA HA
       <animate attributeName="opacity" values="0.04;0.18;0.04" dur="6.5s" begin="-2s" repeatCount="indefinite"/>
     </text>
-    <text x="228" y="192" font-size="18" fill="#4ade80">ha ha ha
+    <text x="222" y="192" font-size="18" fill="#4ade80">ha ha ha
       <animate attributeName="opacity" values="0.06;0.22;0.06" dur="7.5s" begin="-3.5s" repeatCount="indefinite"/>
     </text>
-    <text x="560" y="196" font-size="26" fill="#fbbf24">ha
+    <text x="556" y="198" font-size="26" fill="#fbbf24">ha
       <animate attributeName="opacity" values="0.05;0.2;0.05" dur="8s" begin="-1s" repeatCount="indefinite"/>
     </text>
-    <text x="352" y="118" font-size="16" fill="#8b5cf6">HA HA HA
+    <text x="346" y="126" font-size="16" fill="#8b5cf6">HA HA HA
       <animate attributeName="opacity" values="0.04;0.14;0.04" dur="9s" begin="-4s" repeatCount="indefinite"/>
     </text>
   </g>
 
+  <!-- rising laugh particles -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="bold">
+    <text x="118" font-size="20" fill="#4ade80" opacity="0">HA
+      <animate attributeName="y" values="250;42" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" keyTimes="0;0.25;1" dur="7s" repeatCount="indefinite"/>
+    </text>
+    <text x="636" font-size="16" fill="#8b5cf6" opacity="0">HA HA
+      <animate attributeName="y" values="250;46" dur="8s" begin="-3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.45;0" keyTimes="0;0.25;1" dur="8s" begin="-3s" repeatCount="indefinite"/>
+    </text>
+    <text x="372" font-size="14" fill="#ef4444" opacity="0">HA HA HA
+      <animate attributeName="y" values="250;50" dur="9s" begin="-6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.4;0" keyTimes="0;0.25;1" dur="9s" begin="-6s" repeatCount="indefinite"/>
+    </text>
+    <text x="716" font-size="13" fill="#fbbf24" opacity="0">ha ha
+      <animate attributeName="y" values="250;54" dur="6.5s" begin="-2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.4;0" keyTimes="0;0.25;1" dur="6.5s" begin="-2s" repeatCount="indefinite"/>
+    </text>
+    <text x="216" font-size="18" fill="#e879f9" opacity="0">HA!
+      <animate attributeName="y" values="250;44" dur="7.5s" begin="-4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" keyTimes="0;0.25;1" dur="7.5s" begin="-4.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- sparkles -->
+  <g>
+    <circle cx="70" cy="58" r="2" fill="#ffffff"><animate attributeName="opacity" values="0;0.9;0" dur="3s" begin="-0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="160" cy="105" r="1.6" fill="#a78bfa"><animate attributeName="opacity" values="0;0.8;0" dur="4s" begin="-1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="255" cy="42" r="2.2" fill="#4ade80"><animate attributeName="opacity" values="0;0.9;0" dur="3.4s" begin="-2s" repeatCount="indefinite"/></circle>
+    <circle cx="495" cy="68" r="1.8" fill="#ffffff"><animate attributeName="opacity" values="0;0.8;0" dur="4.6s" begin="-0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="665" cy="44" r="2" fill="#fbbf24"><animate attributeName="opacity" values="0;0.9;0" dur="3.8s" begin="-2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="785" cy="128" r="1.5" fill="#a78bfa"><animate attributeName="opacity" values="0;0.7;0" dur="4.2s" begin="-1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="58" cy="205" r="1.8" fill="#4ade80"><animate attributeName="opacity" values="0;0.8;0" dur="3.2s" begin="-0.2s" repeatCount="indefinite"/></circle>
+    <circle cx="775" cy="225" r="1.6" fill="#ffffff"><animate attributeName="opacity" values="0;0.7;0" dur="4.8s" begin="-3s" repeatCount="indefinite"/></circle>
+  </g>
+
   <!-- tagline -->
-  <text x="400" y="46" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="18" font-style="italic" letter-spacing="7" fill="#4ade80">WHY SO SERIOUS?
-    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+  <text x="420" y="54" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="22" font-style="italic" letter-spacing="8" fill="#4ade80" filter="url(#glow2)">WHY SO SERIOUS?
+    <animate attributeName="fill" values="#4ade80;#a3e635;#4ade80" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="4s" repeatCount="indefinite"/>
   </text>
 
-  <!-- the smile, drawing itself -->
-  <path d="M 310 150 Q 400 224 490 150" pathLength="100" fill="none" stroke="#4ade80" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="100" stroke-dashoffset="100" opacity="0">
-    <animate attributeName="stroke-dashoffset" values="100;0;0;100" keyTimes="0;0.35;0.65;1" dur="7s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.3;0.7;1" dur="7s" repeatCount="indefinite"/>
+  <!-- toothy grin -->
+  <path d="M 312 162 Q 420 252 528 162" pathLength="100" fill="none" stroke="#ef4444" stroke-width="5" stroke-linecap="round" stroke-dasharray="100" stroke-dashoffset="100" opacity="0">
+    <animate attributeName="stroke-dashoffset" values="100;0;0;100" keyTimes="0;0.35;0.65;1" dur="7s" begin="-0.12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.16;0.16;0" keyTimes="0;0.3;0.7;1" dur="7s" begin="-0.12s" repeatCount="indefinite"/>
   </path>
+  <path d="M 320 168 Q 420 248 520 168" pathLength="100" fill="none" stroke="#4ade80" stroke-width="4" stroke-linecap="round" filter="url(#glow2)" stroke-dasharray="100" stroke-dashoffset="100" opacity="0">
+    <animate attributeName="stroke-dashoffset" values="100;0;0;100" keyTimes="0;0.35;0.65;1" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.3;0.7;1" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <g stroke="#4ade80" stroke-width="2.5" stroke-linecap="round" opacity="0">
+    <line x1="360" y1="197" x2="360" y2="209"/>
+    <line x1="380" y1="209" x2="380" y2="223"/>
+    <line x1="400" y1="219" x2="400" y2="235"/>
+    <line x1="420" y1="228" x2="420" y2="244"/>
+    <line x1="440" y1="219" x2="440" y2="235"/>
+    <line x1="460" y1="209" x2="460" y2="223"/>
+    <line x1="480" y1="197" x2="480" y2="209"/>
+    <animate attributeName="opacity" values="0;0;0.85;0.85;0" keyTimes="0;0.32;0.4;0.65;1" dur="7s" repeatCount="indefinite"/>
+  </g>
 
-  <!-- bouncing balls -->
-  <circle r="18" cx="60" cy="46" fill="url(#p)">
-    <animate attributeName="cy" values="46;176;46" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.4s" repeatCount="indefinite"/>
-    <animate attributeName="cx" values="60;340;60" dur="9s" repeatCount="indefinite"/>
-  </circle>
-  <circle r="14" cx="180" cy="40" fill="url(#gg)">
-    <animate attributeName="cy" values="40;180;40" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2s" begin="-0.7s" repeatCount="indefinite"/>
-    <animate attributeName="cx" values="180;520;180" dur="7s" repeatCount="indefinite"/>
-  </circle>
-  <circle r="12" cx="700" cy="52" fill="url(#gr)">
-    <animate attributeName="cy" values="52;182;52" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.2s" begin="-1.4s" repeatCount="indefinite"/>
-    <animate attributeName="cx" values="700;380;700" dur="8s" repeatCount="indefinite"/>
-  </circle>
-  <circle r="10" cx="420" cy="36" fill="url(#gd)">
-    <animate attributeName="cy" values="36;184;36" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="1.8s" begin="-0.3s" repeatCount="indefinite"/>
-    <animate attributeName="cx" values="420;680;420" dur="6.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle r="8" cx="540" cy="44" fill="url(#gw)">
-    <animate attributeName="cy" values="44;186;44" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.6s" begin="-1.9s" repeatCount="indefinite"/>
-    <animate attributeName="cx" values="540;120;540" dur="10s" repeatCount="indefinite"/>
-  </circle>
-  <circle r="16" cx="260" cy="58" fill="url(#gm)">
-    <animate attributeName="cy" values="58;178;58" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.8s" begin="-2.3s" repeatCount="indefinite"/>
-    <animate attributeName="cx" values="260;720;260" dur="11s" repeatCount="indefinite"/>
-  </circle>
+  <!-- floor -->
+  <line x1="24" y1="244" x2="816" y2="244" stroke="#7c3aed" stroke-opacity="0.3" stroke-width="1.5"/>
+  <text x="420" y="268" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="10" letter-spacing="3" fill="#6d5d96">PURE SVG · ZERO JAVASCRIPT · 100% SMIL</text>
+
+  <!-- ═══ BALL A · purple r18 · X 70↔350 9s · Y 2.4s ═══ -->
+  <g opacity="0.10">
+    <animateTransform attributeName="transform" type="translate" values="70;350;70" dur="9s" begin="-8.82s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="translate" values="42;226;42" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.4s" begin="-2.22s" repeatCount="indefinite"/>
+      <g transform="translate(0 18)"><circle cx="0" cy="-18" r="18" fill="url(#p)"/></g>
+    </g>
+  </g>
+  <g opacity="0.22">
+    <animateTransform attributeName="transform" type="translate" values="70;350;70" dur="9s" begin="-8.91s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="translate" values="42;226;42" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.4s" begin="-2.31s" repeatCount="indefinite"/>
+      <g transform="translate(0 18)"><circle cx="0" cy="-18" r="18" fill="url(#p)"/></g>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="70;350;70" dur="9s" repeatCount="indefinite"/>
+    <g transform="translate(0 244)">
+      <ellipse cx="0" cy="0" ry="4" fill="#040309">
+        <animate attributeName="rx" values="27;12;27" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;0.15;0.4" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.4s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="42;226;42" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.4s" repeatCount="indefinite"/>
+      <g transform="translate(0 18)">
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;1 1;1.32 0.62;1 1;1 1" keyTimes="0;0.4;0.5;0.6;1" dur="2.4s" repeatCount="indefinite"/>
+          <circle cx="0" cy="-18" r="18" fill="url(#p)" filter="url(#glow)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- ═══ BALL B · green r14 · X 190↔540 7s · Y 2.0s b-0.7 ═══ -->
+  <g opacity="0.10">
+    <animateTransform attributeName="transform" type="translate" values="190;540;190" dur="7s" begin="-6.82s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="translate" values="34;230;34" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2s" begin="-1.82s" repeatCount="indefinite"/>
+      <g transform="translate(0 14)"><circle cx="0" cy="-14" r="14" fill="url(#gg)"/></g>
+    </g>
+  </g>
+  <g opacity="0.22">
+    <animateTransform attributeName="transform" type="translate" values="190;540;190" dur="7s" begin="-6.91s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="translate" values="34;230;34" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2s" begin="-1.91s" repeatCount="indefinite"/>
+      <g transform="translate(0 14)"><circle cx="0" cy="-14" r="14" fill="url(#gg)"/></g>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="190;540;190" dur="7s" repeatCount="indefinite"/>
+    <g transform="translate(0 244)">
+      <ellipse cx="0" cy="0" ry="3.5" fill="#040309">
+        <animate attributeName="rx" values="21;9;21" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2s" begin="-0.7s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.38;0.14;0.38" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2s" begin="-0.7s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="34;230;34" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2s" begin="-0.7s" repeatCount="indefinite"/>
+      <g transform="translate(0 14)">
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;1 1;1.28 0.68;1 1;1 1" keyTimes="0;0.4;0.5;0.6;1" dur="2s" begin="-0.7s" repeatCount="indefinite"/>
+          <circle cx="0" cy="-14" r="14" fill="url(#gg)" filter="url(#glow)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- ═══ BALL C · red r12 · X 740↔400 8s · Y 2.2s b-1.4 ═══ -->
+  <g opacity="0.10">
+    <animateTransform attributeName="transform" type="translate" values="740;400;740" dur="8s" begin="-7.82s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="translate" values="52;232;52" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.2s" begin="-2.02s" repeatCount="indefinite"/>
+      <g transform="translate(0 12)"><circle cx="0" cy="-12" r="12" fill="url(#gr)"/></g>
+    </g>
+  </g>
+  <g opacity="0.22">
+    <animateTransform attributeName="transform" type="translate" values="740;400;740" dur="8s" begin="-7.91s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="translate" values="52;232;52" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.2s" begin="-2.11s" repeatCount="indefinite"/>
+      <g transform="translate(0 12)"><circle cx="0" cy="-12" r="12" fill="url(#gr)"/></g>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="740;400;740" dur="8s" repeatCount="indefinite"/>
+    <g transform="translate(0 244)">
+      <ellipse cx="0" cy="0" ry="3" fill="#040309">
+        <animate attributeName="rx" values="18;8;18" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.2s" begin="-1.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.36;0.13;0.36" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.2s" begin="-1.4s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="52;232;52" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.2s" begin="-1.4s" repeatCount="indefinite"/>
+      <g transform="translate(0 12)">
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;1 1;1.26 0.7;1 1;1 1" keyTimes="0;0.4;0.5;0.6;1" dur="2.2s" begin="-1.4s" repeatCount="indefinite"/>
+          <circle cx="0" cy="-12" r="12" fill="url(#gr)" filter="url(#glow)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- ═══ BALL D · gold r10 · X 440↔700 6.5s · Y 1.8s b-0.3 ═══ -->
+  <g opacity="0.10">
+    <animateTransform attributeName="transform" type="translate" values="440;700;440" dur="6.5s" begin="-6.32s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="translate" values="34;234;34" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="1.8s" begin="-1.62s" repeatCount="indefinite"/>
+      <g transform="translate(0 10)"><circle cx="0" cy="-10" r="10" fill="url(#gd)"/></g>
+    </g>
+  </g>
+  <g opacity="0.22">
+    <animateTransform attributeName="transform" type="translate" values="440;700;440" dur="6.5s" begin="-6.41s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="translate" values="34;234;34" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="1.8s" begin="-1.71s" repeatCount="indefinite"/>
+      <g transform="translate(0 10)"><circle cx="0" cy="-10" r="10" fill="url(#gd)"/></g>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="440;700;440" dur="6.5s" repeatCount="indefinite"/>
+    <g transform="translate(0 244)">
+      <ellipse cx="0" cy="0" ry="2.5" fill="#040309">
+        <animate attributeName="rx" values="15;6.5;15" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="1.8s" begin="-0.3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.34;0.12;0.34" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="1.8s" begin="-0.3s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="34;234;34" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="1.8s" begin="-0.3s" repeatCount="indefinite"/>
+      <g transform="translate(0 10)">
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;1 1;1.25 0.7;1 1;1 1" keyTimes="0;0.4;0.5;0.6;1" dur="1.8s" begin="-0.3s" repeatCount="indefinite"/>
+          <circle cx="0" cy="-10" r="10" fill="url(#gd)" filter="url(#glow)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- ═══ BALL E · white r8 · X 560↔130 10s · Y 2.6s b-1.9 ═══ -->
+  <g opacity="0.10">
+    <animateTransform attributeName="transform" type="translate" values="560;130;560" dur="10s" begin="-9.82s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="translate" values="44;236;44" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.6s" begin="-2.42s" repeatCount="indefinite"/>
+      <g transform="translate(0 8)"><circle cx="0" cy="-8" r="8" fill="url(#gw)"/></g>
+    </g>
+  </g>
+  <g opacity="0.22">
+    <animateTransform attributeName="transform" type="translate" values="560;130;560" dur="10s" begin="-9.91s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="translate" values="44;236;44" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.6s" begin="-2.51s" repeatCount="indefinite"/>
+      <g transform="translate(0 8)"><circle cx="0" cy="-8" r="8" fill="url(#gw)"/></g>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="560;130;560" dur="10s" repeatCount="indefinite"/>
+    <g transform="translate(0 244)">
+      <ellipse cx="0" cy="0" ry="2" fill="#040309">
+        <animate attributeName="rx" values="12;5;12" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.6s" begin="-1.9s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.32;0.11;0.32" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.6s" begin="-1.9s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="44;236;44" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.6s" begin="-1.9s" repeatCount="indefinite"/>
+      <g transform="translate(0 8)">
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;1 1;1.22 0.74;1 1;1 1" keyTimes="0;0.4;0.5;0.6;1" dur="2.6s" begin="-1.9s" repeatCount="indefinite"/>
+          <circle cx="0" cy="-8" r="8" fill="url(#gw)" filter="url(#glow)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- ═══ BALL F · magenta r16 · X 280↔760 11s · Y 2.8s b-2.3 ═══ -->
+  <g opacity="0.10">
+    <animateTransform attributeName="transform" type="translate" values="280;760;280" dur="11s" begin="-10.82s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="translate" values="50;228;50" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.8s" begin="-2.62s" repeatCount="indefinite"/>
+      <g transform="translate(0 16)"><circle cx="0" cy="-16" r="16" fill="url(#gm)"/></g>
+    </g>
+  </g>
+  <g opacity="0.22">
+    <animateTransform attributeName="transform" type="translate" values="280;760;280" dur="11s" begin="-10.91s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="translate" values="50;228;50" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.8s" begin="-2.71s" repeatCount="indefinite"/>
+      <g transform="translate(0 16)"><circle cx="0" cy="-16" r="16" fill="url(#gm)"/></g>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="280;760;280" dur="11s" repeatCount="indefinite"/>
+    <g transform="translate(0 244)">
+      <ellipse cx="0" cy="0" ry="3.5" fill="#040309">
+        <animate attributeName="rx" values="24;10;24" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.8s" begin="-2.3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.4;0.15;0.4" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.8s" begin="-2.3s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="50;228;50" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.8s" begin="-2.3s" repeatCount="indefinite"/>
+      <g transform="translate(0 16)">
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;1 1;1.3 0.64;1 1;1 1" keyTimes="0;0.4;0.5;0.6;1" dur="2.8s" begin="-2.3s" repeatCount="indefinite"/>
+          <circle cx="0" cy="-16" r="16" fill="url(#gm)" filter="url(#glow)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- ═══ BALL G · teal r9 · X 620↔240 8.5s · Y 2.1s b-1.1 ═══ -->
+  <g opacity="0.10">
+    <animateTransform attributeName="transform" type="translate" values="620;240;620" dur="8.5s" begin="-8.32s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="translate" values="37;235;37" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.1s" begin="-1.92s" repeatCount="indefinite"/>
+      <g transform="translate(0 9)"><circle cx="0" cy="-9" r="9" fill="url(#gt)"/></g>
+    </g>
+  </g>
+  <g opacity="0.22">
+    <animateTransform attributeName="transform" type="translate" values="620;240;620" dur="8.5s" begin="-8.41s" repeatCount="indefinite"/>
+    <g><animateTransform attributeName="transform" type="translate" values="37;235;37" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.1s" begin="-2.01s" repeatCount="indefinite"/>
+      <g transform="translate(0 9)"><circle cx="0" cy="-9" r="9" fill="url(#gt)"/></g>
+    </g>
+  </g>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="620;240;620" dur="8.5s" repeatCount="indefinite"/>
+    <g transform="translate(0 244)">
+      <ellipse cx="0" cy="0" ry="2.5" fill="#040309">
+        <animate attributeName="rx" values="13.5;6;13.5" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.1s" begin="-1.1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.34;0.12;0.34" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.1s" begin="-1.1s" repeatCount="indefinite"/>
+      </ellipse>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="37;235;37" keyTimes="0;0.5;1" calcMode="spline" keySplines="0.5 0 1 1;0 0 0.5 1" dur="2.1s" begin="-1.1s" repeatCount="indefinite"/>
+      <g transform="translate(0 9)">
+        <g>
+          <animateTransform attributeName="transform" type="scale" values="1 1;1 1;1.24 0.72;1 1;1 1" keyTimes="0;0.4;0.5;0.6;1" dur="2.1s" begin="-1.1s" repeatCount="indefinite"/>
+          <circle cx="0" cy="-9" r="9" fill="url(#gt)" filter="url(#glow)"/>
+        </g>
+      </g>
+    </g>
+  </g>
 </svg>
