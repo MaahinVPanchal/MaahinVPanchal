@@ -23,7 +23,7 @@ sub-200ms voice AI agents. I ship fast, test rigorously, and iterate on feedback
 class Maahin(FullStack_AIMLEngineer):
     """2+ years shipping production SaaS, RAG pipelines and real-time voice AI."""
 
-    currently  = "Full-Stack & Voice AI Engineering Intern @ Unloq"
+    Lastly     = "Full-Stack & Voice AI Engineering Intern @ Unloq"
     location   = "Ahmedabad, India · remote-friendly"
     education  = "B.E. Information Technology — L.D. College of Engineering, 2025"
     cgpa       = 8.43
@@ -101,7 +101,7 @@ Different problem every time; same habit of shipping something that works before
 7. **TiDB Hackathon** — Atelier, vision-AI e-commerce routing Patola textile schemas to smart descriptions
 8. **Quant Quest, Algobulls** — algorithmic-trading backtests with Phoenix Copilot · Team AI Avengers
 9. **DeepSeek vs Llama** — LocalLogic, offline-native DeepSeek-R1-Distill sidecar at $0.00 marginal cost
-10. **Bolt — WildScape** — wildlife conservation gamified through Carbon Coins
+10. **Bolt — WildScape** — wildlife conservation gamified through Carbon Coins · [live](https://peaceful-tulumba-ad339b.netlify.app/)
 11. **Amazon Nova** — NetMCP, an MCP orchestrator turning network traffic into natural-language insights
 12. **BigQuery × Kaggle** — FashionVision AI, multimodal cataloging with Gemini 2.0 Flash into BigQuery
 13. **AI Vibe Coding** — Amigo, an audio-first AI interview coach with Ragie + ElevenLabs
@@ -110,8 +110,8 @@ Different problem every time; same habit of shipping something that works before
 16. **HackOut'23 · Lindy · MeDo** — Nano Banana pipeline for comic productions, zero-code apps
 17. **Build with MeDo** — Research Swipe · [live](https://app-bd1pgg0jc6pt.appmedo.com/)
 18. **The Bloomathon, Bloom × GPT-5.5** — a working app in a six-day build-in-public sprint · [live](https://app.diy/uneven-spoonbill-jffavz)
-19. **BTT Web Game Jam, Summer 2026** — Super Mario browser platformer, fully client-side · [live](https://devpost.com/maahinpanchal)
-20. **Adaptation.ai** — patient-financial-recovery datasets on [Hugging Face](https://huggingface.co/datasets/maahin/adaption-patient-financial-recovery-augmented)
+19. **BTT Web Game Jam, Summer 2026** — Super Mario browser platformer, fully client-side · [live](https://supermarioold.lovable.app/)
+20. **Adaptation.ai** — patient-financial-recovery datasets on Hugging Face · [base](https://huggingface.co/datasets/maahin/adaption-patient-financial-recovery) · [augmented](https://huggingface.co/datasets/maahin/adaption-patient-financial-recovery-augmented)
 21. **Nebius × NVIDIA** — GrindResume, shipped live during the event · [live](https://grindresume.lovable.app/)
 
 </details>
