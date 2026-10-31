@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="240" viewBox="0 0 1440 240" role="img" aria-label="Maahin Panchal — Full-Stack and AI/ML Engineer, Idea to Working Product">
+  <defs>
+    <linearGradient id="hg" x1="0" y1="0" x2="1" y2="0.35">
+      <stop offset="0" stop-color="#020818"/>
+      <stop offset="0.5" stop-color="#1e1b4b">
+        <animate attributeName="stop-color" values="#1e1b4b;#4c1d95;#1e1b4b" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,0 H1440 V150 C1200,195 960,105 720,150 C480,195 240,105 0,150 Z" fill="url(#hg)"/>
+  <path d="M0,0 H1440 V165 C1150,205 900,120 640,165 C380,210 180,130 0,170 Z" fill="#a78bfa" opacity="0.08"/>
+  <circle cx="210" cy="46" r="2" fill="#ffffff"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.2s" repeatCount="indefinite"/></circle>
+  <circle cx="480" cy="30" r="1.6" fill="#a78bfa"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="4.1s" begin="-1s" repeatCount="indefinite"/></circle>
+  <circle cx="960" cy="38" r="1.8" fill="#ffffff"><animate attributeName="opacity" values="0.1;0.85;0.1" dur="3.7s" begin="-2s" repeatCount="indefinite"/></circle>
+  <circle cx="1240" cy="28" r="2" fill="#4ade80"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="4.5s" begin="-0.6s" repeatCount="indefinite"/></circle>
+  <circle cx="1380" cy="58" r="1.5" fill="#ffffff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.9s" begin="-1.4s" repeatCount="indefinite"/></circle>
+  <text x="720" y="92" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="52" font-weight="bold" letter-spacing="6" fill="#f8fafc">MAAHIN PANCHAL</text>
+  <text x="720" y="128" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="17" letter-spacing="3" fill="#a78bfa">Full-Stack &amp; AI/ML Engineer · Idea → Working Product</text>
+</svg>

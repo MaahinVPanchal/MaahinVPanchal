@@ -1,6 +1,6 @@
 <!-- ════════════════ HEADER ════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:1e1b4b,100:7c3aed&height=240&section=header&text=Maahin%20Panchal&fontSize=60&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%2FML%20Engineer%20%C2%B7%20Idea%20%E2%86%92%20Working%20Product&descSize=16&descAlignY=58&descColor=a78bfa" width="100%"/>
+<img src="header-wave.svg" width="100%" alt="Maahin Panchal — Full-Stack and AI/ML Engineer, Idea to Working Product"/>
 
 <div align="center">
 
@@ -55,7 +55,15 @@ shipped enterprise RAG and sub-200ms voice AI. **Idea → working product, with 
 >
 > Every trade, every loss, and every decision deserves to be visible. A counter-example to unrealistic trading screenshots and unverifiable profit claims.
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MaahinVPanchal&repo=darkhorse-trading&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="380" alt="darkhorse-trading repo card"/>
+<a href="https://github.com/MaahinVPanchal/darkhorse-trading">
+  <img src="https://img.shields.io/github/stars/MaahinVPanchal/darkhorse-trading?style=for-the-badge&logo=github&label=STARS&color=a78bfa&labelColor=1e1b4b" alt="stars"/>
+</a>
+<a href="https://github.com/MaahinVPanchal/darkhorse-trading">
+  <img src="https://img.shields.io/github/forks/MaahinVPanchal/darkhorse-trading?style=for-the-badge&logo=github&label=FORKS&color=4ade80&labelColor=1e1b4b" alt="forks"/>
+</a>
+<a href="https://github.com/MaahinVPanchal/darkhorse-trading">
+  <img src="https://img.shields.io/github/last-commit/MaahinVPanchal/darkhorse-trading?style=for-the-badge&logo=github&label=LAST%20COMMIT&color=7c3aed&labelColor=1e1b4b" alt="last commit"/>
+</a>
 
 ### 🔒 Security & Impersonation Notice
 
@@ -278,17 +286,12 @@ Full walkthroughs on the [portfolio](https://maahin.lovable.app/).
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaahinVPanchal&theme=github_dark" width="49%" alt="profile details"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaahinVPanchal&theme=github_dark" width="49%" alt="repos per language"/>
+<!-- stats cards are generated daily by our own GitHub Action (.github/workflows/stats.yml) — no third-party dependency -->
+<img src="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/main/profile-summary/profile-details.svg" width="49%" alt="profile details"/>
+<img src="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/main/profile-summary/repos-per-language.svg" width="49%" alt="repos per language"/>
 <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaahinVPanchal&theme=github_dark" width="49%" alt="commit stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaahinVPanchal&theme=github_dark" width="49%" alt="productive time"/>
-
-<br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaahinVPanchal&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=4ade80&text_color=cbd5e1&rank_icon=github&cache_seconds=86400" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaahinVPanchal&layout=donut&langs_count=6&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1&cache_seconds=86400" height="165"/>
+<img src="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/main/profile-summary/stats.svg" width="49%" alt="commit stats"/>
+<img src="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/main/profile-summary/productive-time.svg" width="49%" alt="productive time"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=MaahinVPanchal&hide_border=true&background=0D1117&ring=A78BFA&fire=4ADE80&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=94A3B8" height="165"/>
 
@@ -331,4 +334,4 @@ Sep 2021 – Jul 2025 · CGPA 8.43 · CPI 8.37 · SPI 9.00
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e1b4b,100:020818&height=120&section=footer" width="100%"/>
+<img src="footer-wave.svg" width="100%" alt="footer wave"/>
