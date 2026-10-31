@@ -47,26 +47,26 @@ shipped enterprise RAG and sub-200ms voice AI. **Idea → working product, with 
 
 ---
 
-## 🐎 Darkhorse Trading — the honest counter-example
+## 🐎 Darkhorse Trading — The Honest Counter-Example
 
 <div align="center">
 
-> **[darkhorse-trading](https://github.com/MaahinVPanchal/darkhorse-trading)** 🐎 — an open-source AI trading desk
-> that publishes **every trade and every loss**.
-> The counter-example to those *"$14 → $7,643"* trading screenshots.
+> [**darkhorse-trading**](https://github.com/MaahinVPanchal/darkhorse-trading) 🐎 — An open-source AI trading desk built around one principle: **transparency over performance claims.**
+>
+> Every trade, every loss, and every decision deserves to be visible. A counter-example to unrealistic trading screenshots and unverifiable profit claims.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaahinVPanchal&repo=darkhorse-trading&theme=tokyonight&hide_border=true&bg_color=0d1117" width="380" alt="darkhorse-trading repo card"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MaahinVPanchal&repo=darkhorse-trading&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="380" alt="darkhorse-trading repo card"/>
 
-> ⚠️ **Safety notice** — I will NEVER ask you for:
-> - private keys or seed phrases
-> - deposits, payments, or "signal group" fees
-> - remote access to your machine
->
-> Anyone doing so under my name is a scammer — **report and block**.
->
-> **Official repos:** only the ones listed on this profile. Forks must be renamed and are not affiliated.
->
-> *Not financial advice. Perps can liquidate 100% of an account.*
+### 🔒 Security & Impersonation Notice
+
+I will NEVER ask you for:
+- Private keys or seed phrases.
+- Deposits, payments, or paid signal-group memberships.
+- Remote access to your computer or trading account.
+
+Only trust links published through my official GitHub profile. Unofficial forks, impersonators, and third-party accounts are not affiliated with this project.
+
+**⚠️ Risk Disclaimer:** This project is experimental software, not financial advice or a guarantee of returns. Derivatives and perpetual futures involve substantial risk and can result in the loss of your entire trading capital. Use at your own risk.
 
 </div>
 
@@ -278,13 +278,17 @@ Full walkthroughs on the [portfolio](https://maahin.lovable.app/).
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MaahinVPanchal&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" alt="GitHub trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaahinVPanchal&theme=github_dark" width="49%" alt="profile details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaahinVPanchal&theme=github_dark" width="49%" alt="repos per language"/>
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaahinVPanchal&theme=github_dark" width="49%" alt="commit stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaahinVPanchal&theme=github_dark" width="49%" alt="productive time"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaahinVPanchal&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=4ade80&text_color=cbd5e1&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MaahinVPanchal&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=4ade80&text_color=cbd5e1&rank_icon=github&cache_seconds=86400" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaahinVPanchal&layout=donut&langs_count=6&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaahinVPanchal&layout=donut&langs_count=6&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1&cache_seconds=86400" height="165"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=MaahinVPanchal&hide_border=true&background=0D1117&ring=A78BFA&fire=4ADE80&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=94A3B8" height="165"/>
 
