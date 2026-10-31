@@ -1,17 +1,47 @@
+<!-- ════════════════ HEADER ════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020818,50:1e1b4b,100:7c3aed&height=240&section=header&text=Maahin%20Panchal&fontSize=60&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20AI%2FML%20Engineer%20%C2%B7%20Idea%20%E2%86%92%20Working%20Product&descSize=16&descAlignY=58&descColor=a78bfa" width="100%"/>
+
 <div align="center">
+
+<a href="https://maahin.lovable.app/">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=780&height=45&lines=Full-Stack+%26+AI%2FML+Engineer+%C2%B7+2%2B+years+in+production;Sole-engineered+multi-tenant+SaaS+%C2%B7+86%2B+edge+functions;Enterprise+RAG+%C2%B7+sub-200ms+voice+AI+%C2%B7+computer+vision;24+hackathons+shipped+%C2%B7+3+live+right+now;Open+to+MTS+%2F+ML+%2F+Voice+AI+roles" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<a href="https://maahin.lovable.app/">
+  <img src="https://img.shields.io/badge/Portfolio-maahin.lovable.app-1e1b4b?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/maahinvimlesh-panchal">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/MaahinVPanchal">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://devpost.com/maahinpanchal">
+  <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"/>
+</a>
+<a href="https://www.kaggle.com/maahinpanchal">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+<a href="mailto:maahinpanchal@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/MaahinVPanchal">
+  <img src="https://komarev.com/ghpvc/?username=MaahinVPanchal&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS"/>
+</a>
+
+<br/><br/>
 
 <img src="hackathon-hero.png" width="420" alt="Hackathon constellation — a builder ascends glowing stairs toward an orbit of NVIDIA, Nebius, Altair, SIH, SSIP and Devpost emblems"/>
 
-# Maahin Panchal
+<br/>
 
-**Full-Stack & AI/ML Engineer · Founding Engineer**
-
-I take ideas end to end — sole-engineered a multi-tenant SaaS (86+ edge functions, Stripe, Row-Level Security),
+**I take ideas end to end** — sole-engineered a multi-tenant SaaS (86+ edge functions, Stripe, Row-Level Security),
 shipped enterprise RAG and sub-200ms voice AI. **Idea → working product, with AI as part of the stack.**
 
-Ahmedabad, India · remote-friendly
-
-[Portfolio](https://maahin.lovable.app/) · [LinkedIn](https://linkedin.com/in/maahinvimlesh-panchal) · [GitHub](https://github.com/MaahinVPanchal) · [Devpost](https://devpost.com/maahinpanchal) · maahinpanchal@gmail.com · +91 92744 68476
+<sub>Ahmedabad, India · remote-friendly · [maahinpanchal@gmail.com](mailto:maahinpanchal@gmail.com) · +91 92744 68476</sub>
 
 </div>
 
@@ -19,9 +49,13 @@ Ahmedabad, India · remote-friendly
 
 ## 🐎 Darkhorse Trading — the honest counter-example
 
+<div align="center">
+
 > **[darkhorse-trading](https://github.com/MaahinVPanchal/darkhorse-trading)** 🐎 — an open-source AI trading desk
 > that publishes **every trade and every loss**.
 > The counter-example to those *"$14 → $7,643"* trading screenshots.
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MaahinVPanchal&repo=darkhorse-trading&theme=tokyonight&hide_border=true&bg_color=0d1117" width="380" alt="darkhorse-trading repo card"/>
 
 > ⚠️ **Safety notice** — I will NEVER ask you for:
 > - private keys or seed phrases
@@ -33,6 +67,8 @@ Ahmedabad, India · remote-friendly
 > **Official repos:** only the ones listed on this profile. Forks must be renamed and are not affiliated.
 >
 > *Not financial advice. Perps can liquidate 100% of an account.*
+
+</div>
 
 ---
 
@@ -53,6 +89,19 @@ class Maahin(FullStack_AIMLEngineer):
     side_quest = "Darkhorse Trading — the open-source AI trading desk"
     email      = "maahinpanchal@gmail.com"
 ```
+
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top"><br/><b>🏗️ Ownership</b><br/><sub>sole engineer, 0→1 —<br/>multi-tenant SaaS in production</sub><br/><br/></td>
+<td width="25%" align="center" valign="top"><br/><b>🌐 Breadth</b><br/><sub>full-stack · RAG ·<br/>real-time voice · computer vision</sub><br/><br/></td>
+<td width="25%" align="center" valign="top"><br/><b>🔐 Production details</b><br/><sub>billing · RBAC · PII masking ·<br/>audit logging — beyond the demo</sub><br/><br/></td>
+<td width="25%" align="center" valign="top"><br/><b>🏆 Evidence</b><br/><sub>₹2.49L SSIP grant ·<br/>podium at IIT Kharagpur</sub><br/><br/></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -225,6 +274,36 @@ Full walkthroughs on the [portfolio](https://maahin.lovable.app/).
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MaahinVPanchal&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" alt="GitHub trophies"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MaahinVPanchal&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=4ade80&text_color=cbd5e1&rank_icon=github" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaahinVPanchal&layout=donut&langs_count=6&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1" height="165"/>
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com?user=MaahinVPanchal&hide_border=true&background=0D1117&ring=A78BFA&fire=4ADE80&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=94A3B8" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaahinVPanchal&area=true&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=4ade80&radius=8" width="100%"/>
+
+</div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/output/github-snake-dark.svg" alt="contribution snake" width="96%"/>
+</picture>
+</div>
+
+---
+
 ## 🎓 Education
 
 **B.E. Information Technology — L.D. College of Engineering, Ahmedabad**
@@ -247,3 +326,5 @@ Sep 2021 – Jul 2025 · CGPA 8.43 · CPI 8.37 · SPI 9.00
 <sub>ha&nbsp;ha&nbsp;ha&nbsp;·&nbsp;© 2026 Maahin Vimlesh Panchal&nbsp;·&nbsp;Ahmedabad, India 380061</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e1b4b,100:020818&height=120&section=footer" width="100%"/>
