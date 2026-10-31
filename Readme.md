@@ -287,11 +287,11 @@ Full walkthroughs on the [portfolio](https://maahin.lovable.app/).
 <div align="center">
 
 <!-- stats cards are generated daily by our own GitHub Action (.github/workflows/stats.yml) — no third-party dependency -->
-<img src="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/main/profile-summary/profile-details.svg" width="49%" alt="profile details"/>
-<img src="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/main/profile-summary/repos-per-language.svg" width="49%" alt="repos per language"/>
+<img src="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="49%" alt="profile details"/>
+<img src="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="repos per language"/>
 <br/>
-<img src="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/main/profile-summary/stats.svg" width="49%" alt="commit stats"/>
-<img src="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/main/profile-summary/productive-time.svg" width="49%" alt="productive time"/>
+<img src="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="commit stats"/>
+<img src="https://raw.githubusercontent.com/MaahinVPanchal/MaahinVPanchal/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="productive time"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=MaahinVPanchal&hide_border=true&background=0D1117&ring=A78BFA&fire=4ADE80&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=94A3B8" height="165"/>
 
