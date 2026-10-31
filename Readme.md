@@ -167,7 +167,9 @@ Full walkthroughs on the [portfolio](https://maahin.lovable.app/).
 
 <div align="center">
 
-<img src="hackathon-timeline.svg" width="800" alt="Gantt illustration of Maahin's hackathon windows from January 2025 to December 2026 — Wispr Flow is running now"/>
+**The road so far** — from 2023 foundations to three live challenges right now:
+
+<img src="hackathon-timeline.svg" width="800" alt="Serpentine journey map of Maahin's hackathons — one animated road through every event from 2023 foundations to the live challenges of November 2026"/>
 
 </div>
 
